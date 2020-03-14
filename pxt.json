@@ -1,0 +1,21 @@
+{
+    "name": "Untitled",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "animation": "*",
+        "buttons": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
